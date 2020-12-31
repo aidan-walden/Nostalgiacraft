@@ -1,0 +1,17 @@
+{
+  "nostalgiacraft.config.title": "Nostalgiacraft Options",
+  "nostalgiacraft.config.general": "General",
+  "nostalgiacraft.config.watermark": "Watermark in top-left corner",
+  "nostalgiacraft.config.watermark.tooltip": "Text that displays the Minecraft version",
+  "nostalgiacraft.config.watermarktext": "Watermark text",
+  "nostalgiacraft.config.hotbartooltip": "Draw hotbar tooltip",
+  "nostalgiacraft.config.hotbartooltip.tooltip": "Toggles the tooltip you see above the hotbar",
+  "nostalgiacraft.config.oldtooltip": "Use old tooltips from beta",
+  "nostalgiacraft.config.notchsplash": "Restore old splash texts",
+  "nostalgiacraft.config.notchsplash.tooltip": "Happy Birthday, Notch!",
+  "nostalgiacraft.config.dirtscreen": "Dirt title screen background",
+  "nostalgiacraft.config.oldcactus": "Restore cactus drop scale",
+  "nostalgiacraft.config.oldcactus.tooltip": "Makes cactus drops render as twice the size, emulating an old bug",
+  "nostalgiacraft.config.menuversion": "Restore old main menu version",
+  "nostalgiacraft.config.menuversion.tooltip": "Draw version in top-left, and get rid of /Fabric (Modded)"
+}

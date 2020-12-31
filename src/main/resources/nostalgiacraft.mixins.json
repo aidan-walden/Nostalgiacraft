@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.aidanwalden.nostalgiacraft.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "InGameHudMixin",
+    "SplashTextResourceSupplierMixin",
+    "ScreenMixin",
+    "TitleScreenMixin",
+    "ItemEntityRendererMixin"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

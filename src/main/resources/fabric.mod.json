@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "nostalgiacraft",
+  "version": "${version}",
+  "name": "Nostalgiacraft",
+  "description": "Allows you to restore certain client-side features of old Minecraft versions.",
+  "authors": [
+    "Aidan Walden"
+  ],
+  "contact": {
+    "sources": "https://github.com/aidan-walden/Nostalgiacraft",
+    "issues": "https://github.com/aidan-walden/Nostalgiacraft/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/nostalgiacraft/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "me.aidanwalden.nostalgiacraft.client.NostalgiacraftClient"
+    ],
+    "modmenu": [
+      "me.aidanwalden.nostalgiacraft.client.config.NostalgiacraftModMenuApiImpl"
+    ]
+  },
+  "mixins": [
+    "nostalgiacraft.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.10.8",
+    "fabric": "*",
+    "minecraft": "1.16.4"
+  }
+}
