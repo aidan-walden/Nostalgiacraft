@@ -3,6 +3,7 @@
 .gradle/
 build/
 run/
+remappedSrc/
 
 
 *.iml
