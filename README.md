@@ -1,5 +1,7 @@
 # Nostalgiacraft
 
+All of this mods changes have been merged into [Fabrication.](https://github.com/unascribed/Fabrication)
+
 Nostalgiacraft is a Minecraft mod for the Fabric mod loader. Nostalgiacraft aims to restore certain client-side features of old versions of Minecraft, mainly versions that are considered the "golden age of Minecraft" or "Notch-era" Minecraft. **Nostalgiacraft's purpose is to accomplish things that are not already possible using resource packs or vanilla in-game settings.**
 
 This is my first public Minecraft mod, and Java is not my primary programming language. With that said, opening issues and pull requests is especially encouraged!
